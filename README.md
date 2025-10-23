@@ -1,2 +1,2 @@
 # TSP Project
-This project is made to solve the TSP problem
+The project made by Yeva Zembytska and it is created to solve the TSP problem
